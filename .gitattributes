@@ -1,2 +1,4 @@
 docs/* linguist-documentation=false
 docs/* linguist-vendored=false
+docs/assets/js* linguist-documentation=false
+docs/assets/css* linguist-vendored
